@@ -1,2 +1,2 @@
 # HR_dashboard
-This dashboard displays HR KPI metrics, is fully interactive, and has interactive icons to explore the data.
+This dashboard displays HR KPI metrics, is fully interactive, and has interactive icons to explore the data. The dashboard has a dark theme, utilizes parameters and calculated fields, and shows a breakdown of employees by gender,  education, job department, and hired/terminated status. Click the "i" icon on the left side of the dashboard to see more information about how to use the dashboard.
